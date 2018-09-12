@@ -1,5 +1,8 @@
 # DoWLS-MAN
-Database of Word-level Statistics (Mandarin) 
+Database of Word-level Statistics (Mandarin).
+
+The data will soon be published in LDC.
+
 ### Authors: 
 * Karl David Neergaard
 * Hongzhi Xu

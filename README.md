@@ -1,7 +1,7 @@
 # DoWLS-MAN
 Database of Word-level Statistics (Mandarin).
 
-The data will soon be published in LDC.
+The data will soon be published in LDC, and are also available on the github: https://github.com/karlneergaard/Database_of_word-level_statistics (by Karl David Neergaard)
 
 ### Authors: 
 * Karl David Neergaard
